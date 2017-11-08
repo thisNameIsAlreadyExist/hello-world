@@ -4,3 +4,4 @@ Git is free software.
 绵阳中学
 成都七中
 成都九中
+成都十中
