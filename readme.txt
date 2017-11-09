@@ -5,3 +5,4 @@ Git is free software.
 成都七中
 成都九中
 成都十中
+成都石室中学
